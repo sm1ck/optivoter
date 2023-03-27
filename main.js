@@ -36,7 +36,7 @@ const optiTokenAddress = "0x4200000000000000000000000000000000000042"; // optimi
 
 // rpc
 const web3 = new Web3(
-  "wss://opt-mainnet.g.alchemy.com/v2/tvXigZ3Mc7YnALebtwAibC51ZgB8XG5w"
+  "wss://arb-mainnet.g.alchemy.com/v2/a3gddyg-QZsrorLULTsvQACmRtXb-exh"
 );
 
 // dir path
